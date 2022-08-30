@@ -1,0 +1,1210 @@
+1661414408485	geckodriver	INFO	Listening on 127.0.0.1:50051
+1661414409003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "55267" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileB5JFas"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661414409985	Marionette	INFO	Marionette enabled
+1661414409995	Marionette	INFO	Listening on port 46183
+WebDriver BiDi listening on ws://localhost:55267
+Read port: 46183
+1661414410218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileB5JFas/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55267/devtools/browser/b3da4360-1db1-4173-96f0-0d426f62cf1f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yw/l/en_GB/G79S4wpQ6hy.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+[Child 27055, MediaDecoderStateMachine #1] WARNING: Decoder=7f6495635400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /build/firefox-cvs9kB/firefox-104.0+build3/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/XpJBzEmZpJj.js?_nc_x=Ij3Wp8lg5Kz, line 36: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc
+[Child 27055, MediaDecoderStateMachine #1] WARNING: Decoder=7f648dc23d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-cvs9kB/firefox-104.0+build3/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 27055, MediaDecoderStateMachine #1] WARNING: Decoder=7f648dc23d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-cvs9kB/firefox-104.0+build3/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/XpJBzEmZpJj.js?_nc_x=Ij3Wp8lg5Kz, line 36: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+1661414450397	geckodriver	INFO	Listening on 127.0.0.1:34609
+1661414450925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "49613" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYMfKel"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661414451632	Marionette	INFO	Marionette enabled
+1661414451639	Marionette	INFO	Listening on port 33219
+WebDriver BiDi listening on ws://localhost:49613
+Read port: 33219
+1661414451802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYMfKel/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49613/devtools/browser/8076c3ea-e1c4-4096-971c-3c071d92827c
+1661414459039	geckodriver	INFO	Listening on 127.0.0.1:56627
+1661414459550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "47131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3NhjnY"
+*** You are running in headless mode.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661414460629	Marionette	INFO	Marionette enabled
+1661414460636	Marionette	INFO	Listening on port 40827
+WebDriver BiDi listening on ws://localhost:47131
+Read port: 40827
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yw/l/en_GB/G79S4wpQ6hy.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661414460846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3NhjnY/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47131/devtools/browser/b77a473e-66e2-4cbe-b73a-759847b0093b
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+[Child 27373, MediaDecoderStateMachine #1] WARNING: Decoder=7f3ca2be0100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-cvs9kB/firefox-104.0+build3/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 27373, MediaDecoderStateMachine #1] WARNING: Decoder=7f3ca2be0100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-cvs9kB/firefox-104.0+build3/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/XpJBzEmZpJj.js?_nc_x=Ij3Wp8lg5Kz, line 36: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 142: Error: Destroyed!
+[Child 27373, MediaDecoderStateMachine #1] WARNING: Decoder=7f3ca2be2500 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-cvs9kB/firefox-104.0+build3/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 27373, MediaDecoderStateMachine #1] WARNING: Decoder=7f3ca2be2500 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-cvs9kB/firefox-104.0+build3/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/XpJBzEmZpJj.js?_nc_x=Ij3Wp8lg5Kz, line 36: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yw/l/en_GB/G79S4wpQ6hy.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+[Child 27580, MediaDecoderStateMachine #1] WARNING: Decoder=7fc022d07700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-cvs9kB/firefox-104.0+build3/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 27580, MediaDecoderStateMachine #1] WARNING: Decoder=7fc022d07700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-cvs9kB/firefox-104.0+build3/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/XpJBzEmZpJj.js?_nc_x=Ij3Wp8lg5Kz, line 36: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+[Child 27580, MediaDecoderStateMachine #1] WARNING: Decoder=7fc022d07d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-cvs9kB/firefox-104.0+build3/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 27580, MediaDecoderStateMachine #1] WARNING: Decoder=7fc022d07d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-cvs9kB/firefox-104.0+build3/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/XpJBzEmZpJj.js?_nc_x=Ij3Wp8lg5Kz, line 36: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 142: Error: Destroyed!
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+1661414497695	geckodriver	INFO	Listening on 127.0.0.1:33181
+1661414498210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "60749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileylLx3k"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661414499004	Marionette	INFO	Marionette enabled
+1661414499011	Marionette	INFO	Listening on port 35273
+Read port: 35273
+WebDriver BiDi listening on ws://localhost:60749
+1661414499209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileylLx3k/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:60749/devtools/browser/a6d1a886-fd1a-40ba-a6e5-a1f401984acb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yw/l/en_GB/G79S4wpQ6hy.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+[Child 27960, MediaDecoderStateMachine #1] WARNING: Decoder=7f42cae63700 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-cvs9kB/firefox-104.0+build3/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/XpJBzEmZpJj.js?_nc_x=Ij3Wp8lg5Kz, line 36: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+[Child 27960, MediaDecoderStateMachine #1] WARNING: Decoder=7f42cae63a00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-cvs9kB/firefox-104.0+build3/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 27960, MediaDecoderStateMachine #1] WARNING: Decoder=7f42cae63a00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-cvs9kB/firefox-104.0+build3/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/XpJBzEmZpJj.js?_nc_x=Ij3Wp8lg5Kz, line 36: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 375: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+1661414540358	Marionette	INFO	Stopped listening on port 33219
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1661414542601	Marionette	INFO	Stopped listening on port 35273
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1661414564815	geckodriver	INFO	Listening on 127.0.0.1:54473
+1661414565324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "49871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQNd7ee"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661414566054	Marionette	INFO	Marionette enabled
+1661414566061	Marionette	INFO	Listening on port 42743
+WebDriver BiDi listening on ws://localhost:49871
+Read port: 42743
+1661414566219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQNd7ee/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49871/devtools/browser/ee83aeab-9589-49c7-b53a-fcf1ce164974
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661414589972	geckodriver	INFO	Listening on 127.0.0.1:49643
+1661414589978	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "33761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDoVLIu"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661414590632	Marionette	INFO	Marionette enabled
+1661414590639	Marionette	INFO	Listening on port 46545
+WebDriver BiDi listening on ws://localhost:33761
+Read port: 46545
+1661414590795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDoVLIu/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33761/devtools/browser/330e40bb-cdab-4ac7-9683-b41b419d1b10
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661414615409	Marionette	INFO	Stopped listening on port 46545
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1661414737758	geckodriver	INFO	Listening on 127.0.0.1:35417
+1661414738268	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "58465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCjJzgY"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661414738950	Marionette	INFO	Marionette enabled
+1661414738959	Marionette	INFO	Listening on port 43223
+WebDriver BiDi listening on ws://localhost:58465
+Read port: 43223
+1661414739115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCjJzgY/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58465/devtools/browser/a92f398b-4945-488d-9479-ec047ec64eac
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661414765112	Marionette	INFO	Stopped listening on port 43223
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1661414955950	geckodriver	INFO	Listening on 127.0.0.1:50491
+1661414955956	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "60621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoJMjce"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661414956549	Marionette	INFO	Marionette enabled
+1661414956556	Marionette	INFO	Listening on port 40501
+Read port: 40501
+WebDriver BiDi listening on ws://localhost:60621
+1661414956741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoJMjce/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:60621/devtools/browser/56795bee-2d33-4e0f-aa51-a5e31d168d06
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661414981023	Marionette	INFO	Stopped listening on port 40501
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1661415265755	geckodriver	INFO	Listening on 127.0.0.1:54733
+1661415266281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "37149" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilek5XqkN"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661415267469	Marionette	INFO	Marionette enabled
+1661415267476	Marionette	INFO	Listening on port 39363
+WebDriver BiDi listening on ws://localhost:37149
+Read port: 39363
+1661415267637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilek5XqkN/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37149/devtools/browser/043f3244-b562-4e40-83e7-c963b8044bde
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661415294826	Marionette	INFO	Stopped listening on port 39363
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilek5XqkN/protections.sqlite
+1661415345552	geckodriver	INFO	Listening on 127.0.0.1:37303
+1661415346070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "52713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRd2CFR"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661415349323	Marionette	INFO	Marionette enabled
+1661415349332	Marionette	INFO	Listening on port 35799
+WebDriver BiDi listening on ws://localhost:52713
+Read port: 35799
+1661415350172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRd2CFR/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52713/devtools/browser/c69f7f0a-9af4-443e-aba5-5d0002190050
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661415384704	Marionette	INFO	Stopped listening on port 35799
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileRd2CFR/protections.sqlite
+1661415616110	geckodriver	INFO	Listening on 127.0.0.1:38843
+1661415616120	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "54007" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRcv64W"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661415616765	Marionette	INFO	Marionette enabled
+1661415616772	Marionette	INFO	Listening on port 33293
+WebDriver BiDi listening on ws://localhost:54007
+Read port: 33293
+1661415616934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRcv64W/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54007/devtools/browser/28183d61-82c2-4c12-9c2e-974621ad9aa7
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661415635684	Marionette	INFO	Stopped listening on port 33293
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileRcv64W/protections.sqlite
+1661415682159	geckodriver	INFO	Listening on 127.0.0.1:43657
+1661415682668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "41761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoimyrE"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661415683454	Marionette	INFO	Marionette enabled
+1661415683459	Marionette	INFO	Listening on port 38209
+Read port: 38209
+WebDriver BiDi listening on ws://localhost:41761
+1661415683640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoimyrE/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41761/devtools/browser/195fc526-01ff-4831-9114-94af6e1405ed
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661415703924	Marionette	INFO	Stopped listening on port 38209
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileoimyrE/protections.sqlite
+1661416182204	geckodriver	INFO	Listening on 127.0.0.1:40011
+1661416182712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "54165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLQx9f0"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661416183351	Marionette	INFO	Marionette enabled
+1661416183361	Marionette	INFO	Listening on port 41659
+WebDriver BiDi listening on ws://localhost:54165
+Read port: 41659
+1661416183522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLQx9f0/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54165/devtools/browser/1daa6028-bb65-48f0-8af2-422a8f6605eb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661416200902	Marionette	INFO	Stopped listening on port 41659
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileLQx9f0/protections.sqlite
+1661416302200	geckodriver	INFO	Listening on 127.0.0.1:43037
+1661416302724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "41037" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehiKXpS"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661416303413	Marionette	INFO	Marionette enabled
+1661416303421	Marionette	INFO	Listening on port 45365
+Read port: 45365
+WebDriver BiDi listening on ws://localhost:41037
+1661416303590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehiKXpS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41037/devtools/browser/f62bd215-8689-4bd2-ad7f-2a5ab59e2b8d
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661416321347	Marionette	INFO	Stopped listening on port 45365
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilehiKXpS/protections.sqlite
+1661416412991	geckodriver	INFO	Listening on 127.0.0.1:36889
+1661416413000	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "36545" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8GJYdQ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661416413607	Marionette	INFO	Marionette enabled
+1661416413616	Marionette	INFO	Listening on port 38601
+WebDriver BiDi listening on ws://localhost:36545
+Read port: 38601
+1661416413774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8GJYdQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36545/devtools/browser/852f0272-51f2-423c-a201-798856dc4279
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661416434081	Marionette	INFO	Stopped listening on port 38601
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofile8GJYdQ/protections.sqlite
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1661416554104	geckodriver	INFO	Listening on 127.0.0.1:56617
+1661416554611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "34245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile02C86K"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661416555306	Marionette	INFO	Marionette enabled
+1661416555315	Marionette	INFO	Listening on port 42273
+WebDriver BiDi listening on ws://localhost:34245
+Read port: 42273
+1661416555610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile02C86K/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34245/devtools/browser/f81de195-ebc1-436f-839a-033113f2aee4
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661416580230	Marionette	INFO	Stopped listening on port 42273
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1661416756199	geckodriver	INFO	Listening on 127.0.0.1:53669
+1661416756219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "47185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMhXLxJ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661416756901	Marionette	INFO	Marionette enabled
+1661416756909	Marionette	INFO	Listening on port 41653
+WebDriver BiDi listening on ws://localhost:47185
+Read port: 41653
+1661416757079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMhXLxJ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47185/devtools/browser/346b0abc-4d82-405c-b7b9-269a3f2e209c
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661416775151	Marionette	INFO	Stopped listening on port 41653
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1661444746681	geckodriver	INFO	Listening on 127.0.0.1:40011
+1661444747193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "57757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGYE9Ff"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661444748561	Marionette	INFO	Marionette enabled
+1661444748570	Marionette	INFO	Listening on port 38979
+WebDriver BiDi listening on ws://localhost:57757
+Read port: 38979
+1661444749023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGYE9Ff/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57757/devtools/browser/3aa29d55-b603-4f5b-ac33-0aba77f82443
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661444793834	Marionette	INFO	Stopped listening on port 38979
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1661444843553	geckodriver	INFO	Listening on 127.0.0.1:38461
+1661444843563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "59429" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefDETVJ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661444844250	Marionette	INFO	Marionette enabled
+1661444844259	Marionette	INFO	Listening on port 40925
+Read port: 40925
+WebDriver BiDi listening on ws://localhost:59429
+1661444844420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefDETVJ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59429/devtools/browser/f0aa3baf-1f73-4a55-bbb7-6f5670ed7947
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661444869201	Marionette	INFO	Stopped listening on port 40925
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1661445040276	geckodriver	INFO	Listening on 127.0.0.1:54135
+1661445040785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "52367" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqYMxjp"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661445041635	Marionette	INFO	Marionette enabled
+1661445041641	Marionette	INFO	Listening on port 43505
+WebDriver BiDi listening on ws://localhost:52367
+Read port: 43505
+1661445041826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqYMxjp/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52367/devtools/browser/2497a39b-3ffb-47a2-9168-81f5f5b265a9
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661445071168	Marionette	INFO	Stopped listening on port 43505
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileqYMxjp/protections.sqlite
+1661445127642	geckodriver	INFO	Listening on 127.0.0.1:37353
+1661445127649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "48783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2FNS8v"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661445128187	Marionette	INFO	Marionette enabled
+1661445128194	Marionette	INFO	Listening on port 41757
+WebDriver BiDi listening on ws://localhost:48783
+Read port: 41757
+1661445128354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2FNS8v/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48783/devtools/browser/e4b47131-8218-41bd-9993-f4b99f41451e
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661445166505	Marionette	INFO	Stopped listening on port 41757
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1661445381707	geckodriver	INFO	Listening on 127.0.0.1:33471
+1661445382230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "47529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRBgZ9B"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661445383234	Marionette	INFO	Marionette enabled
+1661445383244	Marionette	INFO	Listening on port 40615
+WebDriver BiDi listening on ws://localhost:47529
+Read port: 40615
+1661445383408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRBgZ9B/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47529/devtools/browser/e9079ab6-74ad-41c7-908c-9aa11e4f7518
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661445414036	Marionette	INFO	Stopped listening on port 40615
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1661445549280	geckodriver	INFO	Listening on 127.0.0.1:40951
+1661445549786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "45051" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledtYwml"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661445550350	Marionette	INFO	Marionette enabled
+1661445550357	Marionette	INFO	Listening on port 42503
+WebDriver BiDi listening on ws://localhost:45051
+Read port: 42503
+1661445550507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledtYwml/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45051/devtools/browser/d1c1ea03-1bab-497d-be11-000c6cadb742
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661445655989	Marionette	INFO	Stopped listening on port 42503
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofiledtYwml/protections.sqlite
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1661445869814	geckodriver	INFO	Listening on 127.0.0.1:48121
+1661445869838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "41251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexVVuFC"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661445870445	Marionette	INFO	Marionette enabled
+1661445870453	Marionette	INFO	Listening on port 42561
+WebDriver BiDi listening on ws://localhost:41251
+Read port: 42561
+1661445870613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexVVuFC/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41251/devtools/browser/f2b8b158-f6dc-4be1-ac7a-f567d3d89956
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661445888204	Marionette	INFO	Stopped listening on port 42561
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1661445966267	geckodriver	INFO	Listening on 127.0.0.1:55375
+1661445966282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "32999" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHQ2Sih"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661445966913	Marionette	INFO	Marionette enabled
+1661445966924	Marionette	INFO	Listening on port 42985
+WebDriver BiDi listening on ws://localhost:32999
+Read port: 42985
+1661445967088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHQ2Sih/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:32999/devtools/browser/2efcabfb-f4a3-4152-b3ef-37cd4a0ddf6a
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661445989790	Marionette	INFO	Stopped listening on port 42985
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1661446018273	geckodriver	INFO	Listening on 127.0.0.1:41329
+1661446018285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "40953" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8SVtX2"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661446018950	Marionette	INFO	Marionette enabled
+1661446018957	Marionette	INFO	Listening on port 37391
+WebDriver BiDi listening on ws://localhost:40953
+Read port: 37391
+1661446019118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8SVtX2/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40953/devtools/browser/e1d89ec9-937a-4d5c-9974-565313acef2e
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661446042334	Marionette	INFO	Stopped listening on port 37391
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofile8SVtX2/protections.sqlite
+1661446610210	geckodriver	INFO	Listening on 127.0.0.1:49577
+1661446610718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "45491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3rUnO6"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661446611440	Marionette	INFO	Marionette enabled
+1661446611451	Marionette	INFO	Listening on port 35733
+WebDriver BiDi listening on ws://localhost:45491
+Read port: 35733
+1661446611664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3rUnO6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45491/devtools/browser/029aece3-fe5e-4b4d-a4b8-8747d61f8920
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661446645510	Marionette	INFO	Stopped listening on port 35733
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1661446919578	geckodriver	INFO	Listening on 127.0.0.1:59551
+1661446920100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "52921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewI0yFM"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661446920661	Marionette	INFO	Marionette enabled
+1661446920668	Marionette	INFO	Listening on port 36589
+WebDriver BiDi listening on ws://localhost:52921
+Read port: 36589
+1661446920823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewI0yFM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52921/devtools/browser/adc9dd66-e07f-471a-b80c-ed49e2399653
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/y7/l/en_GB/JeW2DVSmZBx.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661446940847	Marionette	INFO	Stopped listening on port 36589
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1661489456943	geckodriver	INFO	Listening on 127.0.0.1:39307
+1661489457467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "38889" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletT2x6M"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661489458887	Marionette	INFO	Marionette enabled
+1661489458897	Marionette	INFO	Listening on port 33815
+WebDriver BiDi listening on ws://localhost:38889
+Read port: 33815
+1661489459151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletT2x6M/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38889/devtools/browser/c4d939ae-c061-433b-adab-48500c8bc06e
+1661489505859	Marionette	INFO	Stopped listening on port 33815
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1661489656959	geckodriver	INFO	Listening on 127.0.0.1:59435
+1661489657483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "50083" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJO5YVj"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661489658108	Marionette	INFO	Marionette enabled
+1661489658116	Marionette	INFO	Listening on port 45129
+WebDriver BiDi listening on ws://localhost:50083
+Read port: 45129
+1661489658268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJO5YVj/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50083/devtools/browser/fad2cd73-8233-4f94-aa86-e79bc9f8b170
+1661489704716	Marionette	INFO	Stopped listening on port 45129
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1661489722520	geckodriver	INFO	Listening on 127.0.0.1:52145
+1661489723027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "45839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemD74M4"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661489723586	Marionette	INFO	Marionette enabled
+1661489723593	Marionette	INFO	Listening on port 39865
+WebDriver BiDi listening on ws://localhost:45839
+Read port: 39865
+1661489723759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemD74M4/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45839/devtools/browser/dc4a16a5-ae7f-4c09-8640-feed4f5c9e46
+1661489770175	Marionette	INFO	Stopped listening on port 39865
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1661491843088	geckodriver	INFO	Listening on 127.0.0.1:54961
+1661491843613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "52655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemFHnWu"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661491846944	Marionette	INFO	Marionette enabled
+1661491846951	Marionette	INFO	Listening on port 34249
+WebDriver BiDi listening on ws://localhost:52655
+Read port: 34249
+1661491847628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemFHnWu/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52655/devtools/browser/fd54a96d-b19d-40e3-95b7-a38e874e5fa7
+1661491897103	Marionette	INFO	Stopped listening on port 34249
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1661499781802	geckodriver	INFO	Listening on 127.0.0.1:37179
+1661499781813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "38887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebylKUV"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661499782492	Marionette	INFO	Marionette enabled
+1661499782499	Marionette	INFO	Listening on port 40919
+WebDriver BiDi listening on ws://localhost:38887
+Read port: 40919
+1661499782661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebylKUV/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38887/devtools/browser/f256ba96-e663-42a0-a5fe-bfa09bd33b97
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661499805024	Marionette	INFO	Stopped listening on port 40919
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1661499871155	geckodriver	INFO	Listening on 127.0.0.1:40795
+1661499871682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "42413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiler13sca"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661499872369	Marionette	INFO	Marionette enabled
+1661499872376	Marionette	INFO	Listening on port 37507
+WebDriver BiDi listening on ws://localhost:42413
+Read port: 37507
+1661499872531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiler13sca/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42413/devtools/browser/a0a3e3ce-3e95-4645-8f33-d686387ed846
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661499892854	Marionette	INFO	Stopped listening on port 37507
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofiler13sca/protections.sqlite
+1661500033930	geckodriver	INFO	Listening on 127.0.0.1:58533
+1661500034445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "49709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTMPhfT"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661500035178	Marionette	INFO	Marionette enabled
+1661500035194	Marionette	INFO	Listening on port 45313
+WebDriver BiDi listening on ws://localhost:49709
+Read port: 45313
+1661500035397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTMPhfT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49709/devtools/browser/d97ba35e-6780-4adb-ae6b-03080db75be1
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661500053653	Marionette	INFO	Stopped listening on port 45313
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileTMPhfT/protections.sqlite
+1661505031270	geckodriver	INFO	Listening on 127.0.0.1:58307
+1661505031797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "37581" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevtm9sE"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661505032523	Marionette	INFO	Marionette enabled
+1661505032530	Marionette	INFO	Listening on port 35773
+WebDriver BiDi listening on ws://localhost:37581
+Read port: 35773
+1661505032691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevtm9sE/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37581/devtools/browser/4a2efb63-9119-4d45-a594-1839bbdcc9d4
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661505049242	Marionette	INFO	Stopped listening on port 35773
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilevtm9sE/protections.sqlite
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1661605214263	geckodriver	INFO	Listening on 127.0.0.1:32885
+1661605214775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "51979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOjUWCi"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661605215932	Marionette	INFO	Marionette enabled
+1661605215944	Marionette	INFO	Listening on port 40245
+WebDriver BiDi listening on ws://localhost:51979
+Read port: 40245
+1661605216252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOjUWCi/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51979/devtools/browser/b978518e-2548-42f5-82cc-22b4ecb488fa
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 39280, MediaDecoderStateMachine #1] WARNING: Decoder=7f22e7374200 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - mozilla::MediaResult mozilla::RemoteVideoDecoderChild::InitIPDL(const mozilla::VideoInfo &, float, const CreateDecoderParams::OptionSet &, Maybe<layers::TextureFactoryIdentifier>, const Maybe<uint64_t> &): RemoteDecoderManager is not available.: file /build/firefox-cvs9kB/firefox-104.0+build3/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iFhX4/ym/l/en_GB/fJ4YJE3RR8S.js?_nc_x=Ij3Wp8lg5Kz, line 105: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to decode media
+1661605331967	Marionette	INFO	Stopped listening on port 40245
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1661605410382	geckodriver	INFO	Listening on 127.0.0.1:46919
+1661605410889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "41183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilee2Gfmt"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661605411494	Marionette	INFO	Marionette enabled
+1661605411501	Marionette	INFO	Listening on port 38767
+WebDriver BiDi listening on ws://localhost:41183
+Read port: 38767
+1661605411655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilee2Gfmt/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41183/devtools/browser/49a3ae67-0fb5-4374-96dc-6133b1812108
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661605435667	Marionette	INFO	Stopped listening on port 38767
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1661605551601	geckodriver	INFO	Listening on 127.0.0.1:52585
+1661605551620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "41169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerVaImH"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661605552261	Marionette	INFO	Marionette enabled
+1661605552271	Marionette	INFO	Listening on port 46265
+WebDriver BiDi listening on ws://localhost:41169
+Read port: 46265
+1661605552434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerVaImH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41169/devtools/browser/58779700-fbba-4918-8a37-a3da88cfab2b
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661605605482	Marionette	INFO	Stopped listening on port 46265
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1661606353451	geckodriver	INFO	Listening on 127.0.0.1:38225
+1661606353981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "39013" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2zB5sH"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661606354564	Marionette	INFO	Marionette enabled
+1661606354574	Marionette	INFO	Listening on port 46039
+WebDriver BiDi listening on ws://localhost:39013
+Read port: 46039
+1661606354738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2zB5sH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39013/devtools/browser/ed705362-18d2-4597-ba76-9d63c22b6e8c
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661606392133	Marionette	INFO	Stopped listening on port 46039
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1661624549586	geckodriver	INFO	Listening on 127.0.0.1:49737
+1661624550081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "40029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejg5Eio"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661624551178	Marionette	INFO	Marionette enabled
+1661624551185	Marionette	INFO	Listening on port 37605
+WebDriver BiDi listening on ws://localhost:40029
+Read port: 37605
+1661624551405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejg5Eio/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40029/devtools/browser/951cb48e-45e9-4df4-b122-b4ebca74b9b2
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661624627838	Marionette	INFO	Stopped listening on port 37605
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1661624767137	geckodriver	INFO	Listening on 127.0.0.1:41751
+1661624767656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "54921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileH74xjf"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661624768539	Marionette	INFO	Marionette enabled
+1661624768547	Marionette	INFO	Listening on port 33955
+WebDriver BiDi listening on ws://localhost:54921
+Read port: 33955
+1661624768699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileH74xjf/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54921/devtools/browser/d4671a38-ee34-4650-ac94-baf110384625
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 65837, MediaDecoderStateMachine #1] WARNING: Decoder=7f258e46d900 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-cvs9kB/firefox-104.0+build3/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 65837, MediaDecoderStateMachine #1] WARNING: Decoder=7f258e46d900 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-cvs9kB/firefox-104.0+build3/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJ9s4/yI/l/en_GB/RiAwc3kcD9GiZWW_o04hsOUFGTb7p1NBYLoyaiDxeZ9oCs2q9bsPEajU6-ok4dge7dvWqQpFAc7MWo_EmzMr86Vkqm_BzypGFtsoGcgEPOmaqBvXclU9LhkLR_RLYtgZvqTzJoznUba341XUoK4EAw0Tkahvgy3o6ZpKadmY1GMsKjXY2-swibMyYoOVoJUbI5NsG_SisXTT4NPA-h1rjMrcHAeXWasvquVhuFEB5chOH2sVGRq8FxzXY9354.js?_nc_x=Ij3Wp8lg5Kz, line 9: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJ9s4/yI/l/en_GB/RiAwc3kcD9GiZWW_o04hsOUFGTb7p1NBYLoyaiDxeZ9oCs2q9bsPEajU6-ok4dge7dvWqQpFAc7MWo_EmzMr86Vkqm_BzypGFtsoGcgEPOmaqBvXclU9LhkLR_RLYtgZvqTzJoznUba341XUoK4EAw0Tkahvgy3o6ZpKadmY1GMsKjXY2-swibMyYoOVoJUbI5NsG_SisXTT4NPA-h1rjMrcHAeXWasvquVhuFEB5chOH2sVGRq8FxzXY9354.js?_nc_x=Ij3Wp8lg5Kz, line 9: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iFhX4/ym/l/en_GB/fJ4YJE3RR8S.js?_nc_x=Ij3Wp8lg5Kz, line 105: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJ9s4/yI/l/en_GB/RiAwc3kcD9GiZWW_o04hsOUFGTb7p1NBYLoyaiDxeZ9oCs2q9bsPEajU6-ok4dge7dvWqQpFAc7MWo_EmzMr86Vkqm_BzypGFtsoGcgEPOmaqBvXclU9LhkLR_RLYtgZvqTzJoznUba341XUoK4EAw0Tkahvgy3o6ZpKadmY1GMsKjXY2-swibMyYoOVoJUbI5NsG_SisXTT4NPA-h1rjMrcHAeXWasvquVhuFEB5chOH2sVGRq8FxzXY9354.js?_nc_x=Ij3Wp8lg5Kz, line 9: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJ9s4/yI/l/en_GB/RiAwc3kcD9GiZWW_o04hsOUFGTb7p1NBYLoyaiDxeZ9oCs2q9bsPEajU6-ok4dge7dvWqQpFAc7MWo_EmzMr86Vkqm_BzypGFtsoGcgEPOmaqBvXclU9LhkLR_RLYtgZvqTzJoznUba341XUoK4EAw0Tkahvgy3o6ZpKadmY1GMsKjXY2-swibMyYoOVoJUbI5NsG_SisXTT4NPA-h1rjMrcHAeXWasvquVhuFEB5chOH2sVGRq8FxzXY9354.js?_nc_x=Ij3Wp8lg5Kz, line 9: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJ9s4/yI/l/en_GB/RiAwc3kcD9GiZWW_o04hsOUFGTb7p1NBYLoyaiDxeZ9oCs2q9bsPEajU6-ok4dge7dvWqQpFAc7MWo_EmzMr86Vkqm_BzypGFtsoGcgEPOmaqBvXclU9LhkLR_RLYtgZvqTzJoznUba341XUoK4EAw0Tkahvgy3o6ZpKadmY1GMsKjXY2-swibMyYoOVoJUbI5NsG_SisXTT4NPA-h1rjMrcHAeXWasvquVhuFEB5chOH2sVGRq8FxzXY9354.js?_nc_x=Ij3Wp8lg5Kz, line 28: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJ9s4/yI/l/en_GB/RiAwc3kcD9GiZWW_o04hsOUFGTb7p1NBYLoyaiDxeZ9oCs2q9bsPEajU6-ok4dge7dvWqQpFAc7MWo_EmzMr86Vkqm_BzypGFtsoGcgEPOmaqBvXclU9LhkLR_RLYtgZvqTzJoznUba341XUoK4EAw0Tkahvgy3o6ZpKadmY1GMsKjXY2-swibMyYoOVoJUbI5NsG_SisXTT4NPA-h1rjMrcHAeXWasvquVhuFEB5chOH2sVGRq8FxzXY9354.js?_nc_x=Ij3Wp8lg5Kz, line 28: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJ9s4/yI/l/en_GB/RiAwc3kcD9GiZWW_o04hsOUFGTb7p1NBYLoyaiDxeZ9oCs2q9bsPEajU6-ok4dge7dvWqQpFAc7MWo_EmzMr86Vkqm_BzypGFtsoGcgEPOmaqBvXclU9LhkLR_RLYtgZvqTzJoznUba341XUoK4EAw0Tkahvgy3o6ZpKadmY1GMsKjXY2-swibMyYoOVoJUbI5NsG_SisXTT4NPA-h1rjMrcHAeXWasvquVhuFEB5chOH2sVGRq8FxzXY9354.js?_nc_x=Ij3Wp8lg5Kz, line 9: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJ9s4/yI/l/en_GB/RiAwc3kcD9GiZWW_o04hsOUFGTb7p1NBYLoyaiDxeZ9oCs2q9bsPEajU6-ok4dge7dvWqQpFAc7MWo_EmzMr86Vkqm_BzypGFtsoGcgEPOmaqBvXclU9LhkLR_RLYtgZvqTzJoznUba341XUoK4EAw0Tkahvgy3o6ZpKadmY1GMsKjXY2-swibMyYoOVoJUbI5NsG_SisXTT4NPA-h1rjMrcHAeXWasvquVhuFEB5chOH2sVGRq8FxzXY9354.js?_nc_x=Ij3Wp8lg5Kz, line 9: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+1661624802798	Marionette	INFO	Stopped listening on port 33955
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1661669562055	geckodriver	INFO	Listening on 127.0.0.1:50091
+1661669562770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "33433" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenlMKrJ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661669570470	Marionette	INFO	Marionette enabled
+1661669570489	Marionette	INFO	Listening on port 38511
+Read port: 38511
+WebDriver BiDi listening on ws://localhost:33433
+Read port: 38511
+1661669572709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenlMKrJ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33433/devtools/browser/43796e2a-45f6-44f0-bb8e-999761c1f50f
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661669622260	Marionette	INFO	Stopped listening on port 38511
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1661670750396	geckodriver	INFO	Listening on 127.0.0.1:38077
+1661670750409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "56235" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewvk7zv"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661670751131	Marionette	INFO	Marionette enabled
+1661670751136	Marionette	INFO	Listening on port 40643
+WebDriver BiDi listening on ws://localhost:56235
+Read port: 40643
+1661670751286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewvk7zv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56235/devtools/browser/050e64e9-6951-4080-ab97-d70926cc51f0
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661670768289	Marionette	INFO	Stopped listening on port 40643
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilewvk7zv/protections.sqlite
+1661670807827	geckodriver	INFO	Listening on 127.0.0.1:39683
+1661670807836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "39213" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesEckqX"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661670808647	Marionette	INFO	Marionette enabled
+1661670808662	Marionette	INFO	Listening on port 40607
+WebDriver BiDi listening on ws://localhost:39213
+Read port: 40607
+1661670808919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesEckqX/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39213/devtools/browser/605e11b1-0c5c-44b6-a830-a4d47293a804
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661670826001	Marionette	INFO	Stopped listening on port 40607
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1661670831026	geckodriver	INFO	Listening on 127.0.0.1:49393
+1661670831720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "58349" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebsDZx7"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661670837303	Marionette	INFO	Marionette enabled
+1661670837318	Marionette	INFO	Listening on port 33849
+WebDriver BiDi listening on ws://localhost:58349
+Read port: 33849
+1661670838691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebsDZx7/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58349/devtools/browser/c85f24a5-0a6b-4b7e-be23-ff574f8defd7
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661670863768	Marionette	INFO	Stopped listening on port 33849
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilebsDZx7/protections.sqlite
+1661672128523	geckodriver	INFO	Listening on 127.0.0.1:56687
+1661672129057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "56711" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile26AlGw"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661672129703	Marionette	INFO	Marionette enabled
+1661672129710	Marionette	INFO	Listening on port 39201
+WebDriver BiDi listening on ws://localhost:56711
+Read port: 39201
+1661672129945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile26AlGw/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56711/devtools/browser/0d679976-f93f-472f-9be9-9e6f3d7572dd
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661672146219	Marionette	INFO	Stopped listening on port 39201
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofile26AlGw/protections.sqlite
+1661692254482	geckodriver	INFO	Listening on 127.0.0.1:49737
+1661692255091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "38027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegPZIhj"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661692260444	Marionette	INFO	Marionette enabled
+1661692260453	Marionette	INFO	Listening on port 36301
+WebDriver BiDi listening on ws://localhost:38027
+Read port: 36301
+1661692261538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegPZIhj/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38027/devtools/browser/45ef7712-6d64-4ff0-8fd8-047dda186002
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661692288711	Marionette	INFO	Stopped listening on port 36301
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1661692339647	geckodriver	INFO	Listening on 127.0.0.1:60813
+1661692339655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "49671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTRqcHM"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661692340254	Marionette	INFO	Marionette enabled
+1661692340263	Marionette	INFO	Listening on port 41553
+WebDriver BiDi listening on ws://localhost:49671
+Read port: 41553
+1661692340428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTRqcHM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49671/devtools/browser/1798da8f-1b9b-4a96-aaab-55fdbe1a2fae
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661692355658	Marionette	INFO	Stopped listening on port 41553
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileTRqcHM/protections.sqlite
+1661692600006	geckodriver	INFO	Listening on 127.0.0.1:37853
+1661692600519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "59893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecPIqWt"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661692601260	Marionette	INFO	Marionette enabled
+1661692601268	Marionette	INFO	Listening on port 46561
+WebDriver BiDi listening on ws://localhost:59893
+Read port: 46561
+1661692601450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecPIqWt/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59893/devtools/browser/d18429d7-4d20-4ca2-ab58-6ecc54f93396
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661692617431	Marionette	INFO	Stopped listening on port 46561
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilecPIqWt/protections.sqlite
+1661693293040	geckodriver	INFO	Listening on 127.0.0.1:36183
+1661693293556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "49421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileU2KGSn"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661693294458	Marionette	INFO	Marionette enabled
+1661693294463	Marionette	INFO	Listening on port 43287
+Read port: 43287
+WebDriver BiDi listening on ws://localhost:49421
+1661693294623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileU2KGSn/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49421/devtools/browser/4ae4a1f1-66a6-46fd-8950-a6fb4c6d4d61
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661693310669	Marionette	INFO	Stopped listening on port 43287
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileU2KGSn/protections.sqlite
+1661693565629	geckodriver	INFO	Listening on 127.0.0.1:36843
+1661693565641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "58077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeMbBF0"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661693566236	Marionette	INFO	Marionette enabled
+1661693566244	Marionette	INFO	Listening on port 38491
+WebDriver BiDi listening on ws://localhost:58077
+Read port: 38491
+1661693566535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeMbBF0/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58077/devtools/browser/0195d4cf-bd8b-431b-9a83-f127e81c1d1b
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661693581728	Marionette	INFO	Stopped listening on port 38491
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileeMbBF0/protections.sqlite
+1661693911797	geckodriver	INFO	Listening on 127.0.0.1:46099
+1661693912313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "44149" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile46P2vh"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661693915765	Marionette	INFO	Marionette enabled
+1661693915775	Marionette	INFO	Listening on port 46033
+WebDriver BiDi listening on ws://localhost:44149
+Read port: 46033
+1661693917375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile46P2vh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44149/devtools/browser/4d1a8a69-4e76-4c11-a7b0-343f04b2dce9
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1661693934944	Marionette	INFO	Stopped listening on port 46033
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofile46P2vh/protections.sqlite
+1661694328662	geckodriver	INFO	Listening on 127.0.0.1:53451
+1661694329182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "38357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezkXAgK"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661694329747	Marionette	INFO	Marionette enabled
+1661694329754	Marionette	INFO	Listening on port 37887
+WebDriver BiDi listening on ws://localhost:38357
+Read port: 37887
+1661694329899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezkXAgK/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38357/devtools/browser/c553b646-669a-492c-8603-994870f23704
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1661694345934	Marionette	INFO	Stopped listening on port 37887
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilezkXAgK/protections.sqlite
+1661694648606	geckodriver	INFO	Listening on 127.0.0.1:33907
+1661694649127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "51653" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileF4B338"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661694649719	Marionette	INFO	Marionette enabled
+1661694649727	Marionette	INFO	Listening on port 45261
+Read port: 45261
+WebDriver BiDi listening on ws://localhost:51653
+1661694649890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileF4B338/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51653/devtools/browser/cd9dc900-985f-4071-b9b7-287bc5eea85a
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661694668201	Marionette	INFO	Stopped listening on port 45261
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileF4B338/protections.sqlite
+1661696467713	geckodriver	INFO	Listening on 127.0.0.1:58139
+1661696468230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "49689" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenOYsWf"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661696468775	Marionette	INFO	Marionette enabled
+1661696468781	Marionette	INFO	Listening on port 37703
+WebDriver BiDi listening on ws://localhost:49689
+Read port: 37703
+1661696468936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenOYsWf/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49689/devtools/browser/9bc688a1-21b5-4057-8655-2a0f5512077d
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661696484942	Marionette	INFO	Stopped listening on port 37703
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilenOYsWf/protections.sqlite
+1661696522166	geckodriver	INFO	Listening on 127.0.0.1:33517
+1661696522673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "37467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLScLbF"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661696523273	Marionette	INFO	Marionette enabled
+1661696523281	Marionette	INFO	Listening on port 43405
+WebDriver BiDi listening on ws://localhost:37467
+Read port: 43405
+1661696523567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLScLbF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37467/devtools/browser/6de2c4e1-7c7e-4d51-bde5-3e8f24b9fb9f
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1661696538978	Marionette	INFO	Stopped listening on port 43405
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileLScLbF/protections.sqlite
+1661700132817	geckodriver	INFO	Listening on 127.0.0.1:60097
+1661700133337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "51403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileL7NIHC"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661700133972	Marionette	INFO	Marionette enabled
+1661700133979	Marionette	INFO	Listening on port 42761
+WebDriver BiDi listening on ws://localhost:51403
+Read port: 42761
+1661700134131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL7NIHC/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51403/devtools/browser/98f6e367-1663-4aea-b717-323ef346217e
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661700150065	Marionette	INFO	Stopped listening on port 42761
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileL7NIHC/protections.sqlite
+1661755680757	geckodriver	INFO	Listening on 127.0.0.1:49389
+1661755681282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "34769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMAaaua"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661755682578	Marionette	INFO	Marionette enabled
+1661755682587	Marionette	INFO	Listening on port 39869
+WebDriver BiDi listening on ws://localhost:34769
+Read port: 39869
+1661755682838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMAaaua/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34769/devtools/browser/6cd13407-337c-4c4c-ab60-b09e7e1073a4
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11205, MediaDecoderStateMachine #1] WARNING: Decoder=7fb5851c5300 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - mozilla::MediaResult mozilla::RemoteVideoDecoderChild::InitIPDL(const mozilla::VideoInfo &, float, const CreateDecoderParams::OptionSet &, Maybe<layers::TextureFactoryIdentifier>, const Maybe<uint64_t> &): RemoteDecoderManager is not available.: file /build/firefox-cvs9kB/firefox-104.0+build3/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iFhX4/ym/l/en_GB/fJ4YJE3RR8S.js?_nc_x=Ij3Wp8lg5Kz, line 105: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to decode media
+1661755704745	Marionette	INFO	Stopped listening on port 39869
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1661756833740	geckodriver	INFO	Listening on 127.0.0.1:35241
+1661756834248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "57245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekpZYxN"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661756834928	Marionette	INFO	Marionette enabled
+1661756834935	Marionette	INFO	Listening on port 33945
+WebDriver BiDi listening on ws://localhost:57245
+Read port: 33945
+1661756835097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekpZYxN/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57245/devtools/browser/8687d9ec-7159-473e-a376-dd8ba979a205
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661756854437	Marionette	INFO	Stopped listening on port 33945
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilekpZYxN/protections.sqlite
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1661757006578	geckodriver	INFO	Listening on 127.0.0.1:35683
+1661757006587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "34381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVUfsqm"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1661757007647	Marionette	INFO	Marionette enabled
+1661757007654	Marionette	INFO	Listening on port 43925
+WebDriver BiDi listening on ws://localhost:34381
+Read port: 43925
+1661757007818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVUfsqm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34381/devtools/browser/17a28967-5bae-4614-b8b9-36dbe9ca6eff
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i7MQ4/ym/l/en_GB/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661757023222	Marionette	INFO	Stopped listening on port 43925
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileVUfsqm/protections.sqlite
