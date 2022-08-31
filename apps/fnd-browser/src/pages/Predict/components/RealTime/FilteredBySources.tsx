@@ -3,7 +3,7 @@ import React from "react";
 import Card from "../../../../common/Card/Card";
 import { COLORS } from "../../../../constants/theme";
 
-function FilteredBySources() {
+function FilteredBySources({ articlesSearchedLength, fbSearchedLength }: any) {
   return (
     <Card>
       <div className="subtitle" style={{ fontWeight: "700" }}>
@@ -19,9 +19,17 @@ function FilteredBySources() {
           }}
         >
           <div>News Channels</div>
-          <div style={{ color: "#999" }}>7/10</div>
+          <div style={{ color: "#999" }}>
+            {articlesSearchedLength > 10 ? 10 : articlesSearchedLength}/10
+          </div>
         </div>
-        <Progress size="lg" value={70} color={COLORS.primary} />
+        <Progress
+          size="lg"
+          value={
+            articlesSearchedLength > 10 ? 100 : articlesSearchedLength * 10
+          }
+          color={COLORS.primary}
+        />
       </div>
 
       <div className="mb-4">
@@ -34,9 +42,15 @@ function FilteredBySources() {
           }}
         >
           <div>Facebook</div>
-          <div style={{ color: "#999" }}>5/10</div>
+          <div style={{ color: "#999" }}>
+            {fbSearchedLength > 10 ? 10 : fbSearchedLength}/10
+          </div>
         </div>
-        <Progress size="lg" value={50} color={COLORS.primary} />
+        <Progress
+          size="lg"
+          value={fbSearchedLength > 10 ? 100 : fbSearchedLength * 10}
+          color={COLORS.primary}
+        />
       </div>
 
       <div className="mb-4">

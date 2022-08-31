@@ -5,6 +5,7 @@ import { showNotification } from "@mantine/notifications";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTimes } from "@fortawesome/free-solid-svg-icons";
 import { COLORS } from "../../constants/theme";
+import { useAuth } from "../../contexts";
 
 export default function Login() {
   const [username, setUsername] = useState<string>("");
@@ -36,7 +37,7 @@ export default function Login() {
             });
           }
           if (res.data === "success") {
-            window.location.href = "/";
+            window.location.href = "/verify-email";
           } else {
             showNotification({
               color: "red",

@@ -1,10 +1,6 @@
 import React from "react";
 import Card from "../../../../common/Card/Card";
-import { CircularProgressbar } from "react-circular-progressbar";
 import { COLORS } from "../../../../constants/theme";
-import { RingProgress, Text, Center, ThemeIcon } from "@mantine/core";
-import { faCheck } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import GaugeChart from "react-gauge-chart";
 
 // let percentage = 0.5;

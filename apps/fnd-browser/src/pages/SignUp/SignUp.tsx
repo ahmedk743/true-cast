@@ -1,18 +1,39 @@
 import { useState } from "react";
 import axios, { AxiosResponse } from "axios";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { showNotification } from "@mantine/notifications";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCheck, faTimes } from "@fortawesome/free-solid-svg-icons";
 import { COLORS } from "../../constants/theme";
 
 export default function SignUp() {
+  const [email, setEmail] = useState<string>("");
   const [username, setUsername] = useState<string>("");
   const [password, setPassword] = useState<string>("");
   const [confirmPassword, setConfirmPassword] = useState<string>("");
+  const navigate = useNavigate();
 
   const register = (e: any) => {
     e.preventDefault();
+
+    if (email === "") {
+      showNotification({
+        color: "red",
+        message: "Please enter your email!",
+        icon: <FontAwesomeIcon icon={faTimes} />,
+        autoClose: 2000,
+      });
+      return;
+    }
+
+    if (!/^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/i.test(email)) {
+      return showNotification({
+        color: "red",
+        message: "Please enter valid email!",
+        icon: <FontAwesomeIcon icon={faTimes} />,
+        autoClose: 2000,
+      });
+    }
 
     if (username === "") {
       showNotification({
@@ -48,6 +69,7 @@ export default function SignUp() {
       .post("http://localhost:4000/api/register", {
         username,
         password,
+        email,
       })
       .then(
         (res: AxiosResponse) => {
@@ -60,7 +82,7 @@ export default function SignUp() {
               autoClose: 2000,
             });
             setTimeout(() => {
-              window.location.href = "/login";
+              navigate("/verify-email", { state: { email } });
             }, 1000);
           } else {
             showNotification({
@@ -111,6 +133,18 @@ export default function SignUp() {
           <div className="content">
             <h1 className="title">SignUp</h1>
             <form onSubmit={register}>
+              <div className="field">
+                <label className="label">Email</label>
+                <div className="control">
+                  <input
+                    name="email"
+                    className="input"
+                    type="email"
+                    placeholder="Email"
+                    onChange={(e) => setEmail(e.target.value)}
+                  />
+                </div>
+              </div>
               <div className="field">
                 <label className="label">Username</label>
                 <div className="control">

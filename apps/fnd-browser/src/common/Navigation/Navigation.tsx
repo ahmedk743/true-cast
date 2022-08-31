@@ -107,6 +107,7 @@ function Navigation() {
                   {user?.username}
                 </a>
                 <div className="navbar-dropdown is-boxed is-right">
+                  <div className="navbar-item is-active">{user?.email}</div>
                   <div
                     style={{ cursor: "pointer" }}
                     className="navbar-item is-active"

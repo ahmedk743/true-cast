@@ -84,12 +84,13 @@ div::-webkit-scrollbar-thumb {
 }
 
 .demo-bg {
-  opacity: 0.1;
+  opacity: 0.6;
   position: absolute;
   left: 0;
   top: 0;
   width: 100%;
   height: auto;
+  z-index: -1;
 }
 
 .demo-content {

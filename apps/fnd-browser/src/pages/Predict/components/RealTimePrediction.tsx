@@ -7,13 +7,22 @@ import PredictionResultList from "./RealTime/PredictionResultList";
 import ProgressBar from "./RealTime/ProgressBar";
 import { Statistics } from "./RealTime/Statistics";
 
-function RealTimePrediction({ score, results, totalArticles = 0 }: any) {
+function RealTimePrediction({
+  score,
+  results,
+  totalArticles = 0,
+  articlesSearchedLength,
+  fbSearchedLength,
+}: any) {
   const [value, setValue] = React.useState(27);
   return (
     <div>
       <div className="columns ml-5">
         <div className="column is-one-third">
-          <FilteredBySources />
+          <FilteredBySources
+            articlesSearchedLength={articlesSearchedLength}
+            fbSearchedLength={fbSearchedLength}
+          />
         </div>
         <div className="column is-one-third">
           <ProgressBar score={score} />

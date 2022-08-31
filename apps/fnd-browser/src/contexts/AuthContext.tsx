@@ -23,6 +23,8 @@ export default function Context(props: PropsWithChildren<any>) {
       .get("http://localhost:4000/api/user", { withCredentials: true })
       .then((res) => {
         setUser(res.data);
+        console.log(res.data);
+
         setGlobalLoading(false);
       });
   }, []);

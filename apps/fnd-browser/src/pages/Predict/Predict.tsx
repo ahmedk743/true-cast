@@ -53,6 +53,8 @@ function Predict() {
             score={totalScore}
             results={articlesResult}
             totalArticles={totalArticles}
+            articlesSearchedLength={articlesResult.length}
+            fbSearchedLength={fbResults.length}
           />
         );
       case "dataset":

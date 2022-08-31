@@ -9,6 +9,7 @@ import {
 } from "@mantine/core";
 import { faArrowDown, faArrowUp } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import Card from "../../../../common/Card/Card";
 
 const useStyles = createStyles((theme) => ({
   root: {
@@ -30,7 +31,7 @@ export function Statistics({ data }: StatsGridIconsProps) {
     const icon = stat.diff > 0 ? faArrowUp : faArrowDown;
 
     return (
-      <Paper withBorder p="md" radius="md" key={stat.title}>
+      <Card key={stat.title}>
         <Group position="apart">
           <div>
             <Text
@@ -68,7 +69,7 @@ export function Statistics({ data }: StatsGridIconsProps) {
           </Text>{" "}
           {stat.diff > 0 ? "increase" : "decrease"} compared to last month
         </Text>
-      </Paper>
+      </Card>
     );
   });
 

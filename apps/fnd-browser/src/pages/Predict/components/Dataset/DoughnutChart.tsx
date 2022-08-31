@@ -35,7 +35,7 @@ function DoughnutChart({ score, title }: any) {
   };
 
   return (
-    <Card>
+    <Card style={{ marginLeft: -50, marginRight: 50 }}>
       <div
         className="subtitle"
         style={{ fontWeight: "700", position: "absolute" }}
